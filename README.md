@@ -1,2 +1,2 @@
 # recursion
-Recursion  Solutions to TOP's Node path, Javascript course, DSA sub-course, Project Recursion
+Recursion  Solutions to TOP's Javascript course, Recursion Project
